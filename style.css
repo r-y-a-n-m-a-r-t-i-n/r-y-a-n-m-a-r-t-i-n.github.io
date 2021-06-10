@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+head {
+}
+
+body {
+}
+
+h1 {
+	font-family: "Noto Sans JP";
+	font-size: 48px;
+	color: black;
+}
+
+.top {
+	line-height: 1.5;
+	font-family: Montserrat;
+}
+
+a {
+	font-family: Montserrat;
+	color: #4472c4;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #2e74b5;
+}	
+
+div.pic {
+	text-align: center;
+	clear: both;
+}
+
+div.links {
+	text-align: center;
+}
+
+div.resume {
+	margin: auto;
+	text-align: center;
+	width: 50%;
+
+}
+
+p.info {
+	font-family: Montserrat;
+	line-height: 1.5;
+	width: 15%;
+}
