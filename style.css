@@ -14,6 +14,7 @@ h1 {
 }
 
 h2 {
+	text-align: center;
 	font-family: "Noto Sans JP";
 	font-size: 30px;
 	color: #ed2027;
@@ -45,6 +46,7 @@ div.links {
 	font-size: 30px;
 	line-height: 1.5;
 	font-weight: bold;
+	font-family: Montserrat;
 }
 
 div.resume {
@@ -61,6 +63,11 @@ p.info {
 }
 
 .projects {
-	text-align: center;
 	margin: auto;
+	width: 50%;
+	font-family: Montserrat;
+}
+
+.example {
+	display: inline-block;
 }
